@@ -2,21 +2,22 @@
 
 import Link from "next/link";
 import { ShoppingCart } from "lucide-react";
+import styles from "./Navbar.module.css";
 
 export default function Navbar() {
   return (
-    <nav className="sticky top-0 z-50 w-full border-b bg-white">
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
+    <nav className="sticky top-0 z-50 bg-black">
+      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 text-white">
         {/* Logo */}
-        <Link href="/" className="text-xl font-bold">
+        <Link href="/" className="text-xl font-bold tracking-tight">
           ShubhSnap
         </Link>
 
-        {/* Right actions */}
+        {/* Actions */}
         <div className="flex items-center gap-6">
           <Link
             href="/customize"
-            className="text-sm font-medium text-gray-700 hover:text-black"
+            className="text-sm font-medium hover:opacity-80"
           >
             Create Magnet
           </Link>
@@ -24,10 +25,7 @@ export default function Navbar() {
           {/* Cart */}
           <Link href="/cart" className="relative">
             <ShoppingCart className="h-6 w-6" />
-            {/* Static badge for now */}
-            <span className="absolute -right-2 -top-2 flex h-5 w-5 items-center justify-center rounded-full bg-black text-xs text-white">
-              0
-            </span>
+            <span className={styles.cartBadge}>0</span>
           </Link>
         </div>
       </div>

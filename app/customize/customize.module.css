@@ -1,0 +1,11 @@
+.container {
+  background-color: white;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+}
+
+.sectionTitle {
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}

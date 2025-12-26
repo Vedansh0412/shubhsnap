@@ -1,0 +1,24 @@
+.navbar {
+  background-color: var(--background);
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.logo {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.cartBadge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  height: 20px;
+  width: 20px;
+  border-radius: 9999px;
+  background: black;
+  color: white;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
