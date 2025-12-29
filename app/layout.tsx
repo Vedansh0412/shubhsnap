@@ -1,9 +1,12 @@
+import type { Metadata } from "next";
 import "./globals.css";
-import Navbar from "./components/Navbar";
 
-export const metadata = {
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
+export const metadata: Metadata = {
   title: "ShubhSnap",
-  description: "Create custom photo fridge magnets",
+  description: "Custom fridge magnets from your photos",
 };
 
 export default function RootLayout({
@@ -13,9 +16,15 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
+      <body className="flex min-h-screen flex-col">
+        {/* Navbar */}
         <Navbar />
-        <main className="min-h-[calc(100vh-64px)]">{children}</main>
+
+        {/* Page content */}
+        <main className="flex-1">{children}</main>
+
+        {/* Footer */}
+        <Footer />
       </body>
     </html>
   );
