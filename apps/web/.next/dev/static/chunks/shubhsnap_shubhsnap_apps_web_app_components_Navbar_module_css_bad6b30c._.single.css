@@ -1,0 +1,27 @@
+/* [project]/shubhsnap/shubhsnap/apps/web/app/components/Navbar.module.css [app-client] (css) */
+.Navbar-module__3oRAEG__navbar {
+  background-color: var(--background);
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.Navbar-module__3oRAEG__logo {
+  letter-spacing: -.02em;
+  font-weight: 700;
+}
+
+.Navbar-module__3oRAEG__cartBadge {
+  color: #fff;
+  background: #000;
+  border-radius: 9999px;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  display: flex;
+  position: absolute;
+  top: -6px;
+  right: -6px;
+}
+
+/*# sourceMappingURL=shubhsnap_shubhsnap_apps_web_app_components_Navbar_module_css_bad6b30c._.single.css.map*/

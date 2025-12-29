@@ -1,0 +1,834 @@
+[00:00:11.876] Server  LOG     ✓ Ready in 8.4s
+[00:00:43.735] Server  LOG     ○ Compiling / ...
+[00:02:55.485] Server  LOG     ✓ Compiled in 4.5s
+[00:03:10.213] Server  LOG     ✓ Compiled in 546ms
+[00:06:31.891] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:31.980] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.069] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.105] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.146] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.288] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.312] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.317] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.323] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.327] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.352] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.616] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.675] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.699] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:32.798] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:33.003] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:33.022] Browser ERROR   ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:39.817] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:39.906] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:39.951] Server  LOG     ✓ Compiled in 2s
+[00:06:39.993] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.009] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.021] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.043] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.060] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.078] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.092] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.098] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.108] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.112] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.116] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.119] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.131] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.134] Server  ERROR   ⨯ ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:40.855] Browser ERROR   ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:43.227] Server  LOG     ✓ Compiled in 1483ms
+[00:06:43.833] Browser ERROR   ./shubhsnap/shubhsnap/apps/web/app/page.tsx:4:1
+Module not found: Can't resolve '../../../public/mockups/sample-magnet.png'
+  2 |
+  3 | import { useRouter } from "next/navigation";
+> 4 | import '../../../public/mockups/sample-magnet.png';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function HomePage() {
+  7 |   const router = useRouter();
+
+Import traces:
+  Client Component Browser:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component Browser]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Client Component SSR]
+    ./shubhsnap/shubhsnap/apps/web/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
